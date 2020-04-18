@@ -13,11 +13,11 @@
             <p id="titre">Formule 1</p>
             
             <ul>
-                <li id="co"><a href="../identification/connexion.php">Se connecter</a></li>
-                <li><a href="../identification/inscription.php">Créer un compte</a></li>
-                <li><a href="../index.php">Acceuil</a></li>
+                <li id="co"><a href="deconnexion.php">Se déconnecter</a></li>
+                <li><a href="indexco.php">Acceuil</a></li>
             </ul>
         </div>
+
         
         <h1>Données sur les courses</h1>
         <table>
